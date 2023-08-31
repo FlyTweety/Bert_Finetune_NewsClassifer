@@ -1,0 +1,18 @@
+Answer: news_sports, Predict: news_tech, Text:Aibee获亿级行业投资，拓展精准零售新业态
+Answer: news_agriculture, Predict: news_travel, Text:曾是珠海“第一村”的会同村，嬗变后有哪些特色？
+Answer: news_culture, Predict: news_world, Text:为什么袁隆平没有获得诺贝尔奖？
+Answer: news_edu, Predict: news_sports, Text:吉林省对原民办教师有什么好政策？
+Answer: news_story, Predict: news_world, Text:男子身高2.3米妻子1.5米，婚后生活尴尬的不得了
+Answer: news_story, Predict: news_entertainment, Text:想找一个写诗的漂亮女人当老婆有多难？36年都遇不到！
+Answer: news_tech, Predict: news_game, Text:电视平台独家合作！海信助力FIFA足球世界开辟大屏游戏战场
+Answer: news_agriculture, Predict: news_tech, Text:买个包子竟付款14万 店家：快来认领吗？
+Answer: news_travel, Predict: news_game, Text:LOL最令人怀念的场景，一张简单地图，发生过多少难忘的故事！
+Answer: news_sports, Predict: news_tech, Text:美国陷入窘境？市场再次引发热议：如何看待特斯拉破产问题？
+Answer: news_sports, Predict: news_world, Text:接泰国群众举报！166名中国人在泰操控中国股市被警方审讯
+Answer: news_travel, Predict: news_culture, Text:九江美食：湖口炒米粑
+Answer: news_agriculture, Predict: news_game, Text:40年的老核桃，包浆真美！可缝隙里都是灰怎么办？
+Answer: news_sports, Predict: news_tech, Text:未来三年，哪些行业值得投资？
+Answer: news_agriculture, Predict: news_sports, Text:买一只活鸭一般需要50元左右，为什么有些烤鸭却只卖19元呢？
+Answer: news_travel, Predict: news_culture, Text:迷你世界地心门怎么弄？
+Answer: news_entertainment, Predict: news_culture, Text:为什么陈晓旭在《红楼梦》之后再无出名的影视作品？
+Answer: news_tech, Predict: news_edu, Text:公检法司备考热点：机器人逆天战特级？是颠覆还是辅助？
