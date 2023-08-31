@@ -51,5 +51,5 @@ for i in range(0, len(result_lines)):
     label = match.group(3)
 
     if label != predict:
-        print(f"Answer: {predict}, Predict: {label}, Text:{inputs}")
+        print(f"Answer: {label}, Predict: {predict}, Text:{inputs}")
 
