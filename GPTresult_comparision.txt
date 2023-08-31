@@ -14,30 +14,26 @@
 # Answer: news_edu, Predict: news_military, Text:公检法司备考热点：机器人逆天战特级？是颠覆还是辅助？
 # Answer: news_sport, Predict: stock, Text:假如股市恢复T+0的交易制度会怎样？
 # Answer: news_sport, Predict: stock, Text:钢贸大佬神预测：“红五月”建筑钢材市场价格仍将震荡上升
-
+# Answer: news_entertainment, Predict: news_sport, Text:双冠王梅西+赛季不败+欧洲金靴+西甲金靴+西甲助攻王，在金球奖的竞争中有一席之地吗？
+# Answer: news_game, Predict: news_house, Text:40年的老核桃，包浆真美！可缝隙里都是灰怎么办？
+# Answer: news_entertainment, Predict: news_sport, Text:精武门综合格斗职业联赛今晚会师珠海 赛前选手见面频频放狠话
+# Answer: news_entertainment, Predict: news_sport, Text:经常听到球员十几二十万周薪，他们是不是每周发工资？
 
 Answer: news_military, Predict: news_world, Text:一颗原子弹能够摧毁一支航母舰队吗？专家说出实话，你可能都不信
 Answer: news_tech, Predict: news_house, Text:紧急应对618大促，中小型卖家如何快速弯道超车，精耕细作打爆款！
-Answer: news_entertainment, Predict: news_sport, Text:精武门综合格斗职业联赛今晚会师珠海 赛前选手见面频频放狠话
 Answer: news_entertainment, Predict: news_agriculture, Text:胜利的天堂能不能向曼城倾斜
 Answer: news_entertainment, Predict: news_culture, Text:你最喜欢的一句经典电影对白是什么？
 Answer: news_world, Predict: news_game, Text:为什么袁隆平没有获得诺贝尔奖？
 Answer: news_military, Predict: news_world, Text:如果美俄不插手，以色列和伊朗谁的胜算高？
 Answer: news_edu, Predict: news_entertainment, Text:加拿大留学生移民后的生活状况如何？
-Answer: news_entertainment, Predict: news_sport, Text:双冠王梅西+赛季不败+欧洲金靴+西甲金靴+西甲助攻王，在金球奖的竞争中有一席之地吗？
 Answer: news_world, Predict: news_military, Text:菲律宾新人民军属于什么性质，亲美吗？
 Answer: news_tech, Predict: news_car, Text:为什么滴滴打车越来越贵，越来越难打到车，高峰期比打的还难而且贵上1.5倍？
 Answer: news_tech, Predict: news_edu, Text:58同城推广公司58同城推广业务58同城推广渠道
-Answer: news_entertainment, Predict: news_sport, Text:经常听到球员十几二十万周薪，他们是不是每周发工资？
-Answer: news_entertainment, Predict: news_entertainment, Text:董子健家的小公主终于公布照片了，网友：基因果然是强大
 Answer: news_game, Predict: news_tech, Text:多开分身，伪装机型登录王者荣耀，账号会不会封号？
-Answer: news_entertainment, Predict: news_entertainment, Text:范冰冰和欧美明星合影前换上恨天高，成功成为戛纳最美“特工”
 Answer: news_culture, Predict: news_edu, Text:安庆一名大学老师用歌唱的方式教授古典诗词，学生们对他的课很有兴趣，对此你怎么看？
-Answer: news_entertainment, Predict: news_entertainment, Text:梁文音睽违3年发新专辑《副驾驶座的风景》5月11日上线
 Answer: news_tech, Predict: news_entertainment, Text:美国陷入窘境？市场再次引发热议：如何看待特斯拉破产问题？
 Answer: news_entertainment, Predict: news_story, Text:有一种爱情叫做汪峰章子怡！
 Answer: news_culture, Predict: news_agriculture, Text:九江美食：湖口炒米粑
-Answer: news_game, Predict: news_house, Text:40年的老核桃，包浆真美！可缝隙里都是灰怎么办？
 Answer: news_tech, Predict: news_edu, Text:未来三年，哪些行业值得投资？
 Answer: news_tech, Predict: news_world, Text:从2999跌至1599元，曾助OPPO登上国产冠军宝座，如今沦为千元机！
 Answer: news_world, Predict: news_edu, Text:中国学者呼吁要重视医生猝死：两年猝死40个，呼吁减负和为自己健康负责
